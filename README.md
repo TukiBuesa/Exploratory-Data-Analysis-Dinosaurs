@@ -2,7 +2,7 @@
 Entregable del Bootcamp en Data Science en The Bridge | Digital Talent Accelerator (Madrid, SPAIN)
 
 
-![dinosaur_photo_intro]()
+![dinosaur_photo_intro](portada_eda.jpg)
 ### Objetivo
 Desarrollo de un estudio de dinosaurios basado en un Análisis Exploratorio de Datos para comprobar si las hipótesis de partida se cumplen o no.
 
