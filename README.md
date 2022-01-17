@@ -29,4 +29,7 @@ Para ello, se crea un contexto inicial simulado, con un supuesto realista que po
 ### Autora del EDA
  Marta Buesa
  
+### Presentación
+https://speakerdeck.com/tukibuesa/marta-buesa-eda-enero2022
+ 
  
