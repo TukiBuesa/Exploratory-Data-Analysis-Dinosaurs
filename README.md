@@ -20,7 +20,7 @@ Para ello, se crea un contexto inicial simulado, con un supuesto realista que po
      * Selenium: entorno de pruebas de software para aplicaciones basadas en la web, que permite extraer la información necesaria.
 
 3. Herramienta de Business Intelligence: Tableau para la visualización de datos interactivos, creando un discurso/historia con el análisis desarrollado.
- Acceso: https://public.tableau.com/views/Dino_way/Historia1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
+ Acceso: https://public.tableau.com/shared/47QWKRQJJ?:display_count=n&:origin=viz_share_link
 
 4. Jupiter Notebooks con Visual Studio Code.
 
