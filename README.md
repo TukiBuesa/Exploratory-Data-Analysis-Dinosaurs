@@ -34,3 +34,4 @@ Para ello, se crea un contexto inicial simulado, con un supuesto realista que po
 https://speakerdeck.com/tukibuesa/marta-buesa-eda-enero2022
  
  
+ 
